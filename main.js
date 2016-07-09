@@ -69,4 +69,4 @@ game = {
 };
 
 game.startGame();
-Status API Training Shop Blog About
+// Status API Training Shop Blog About
